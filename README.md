@@ -51,7 +51,7 @@
 
 ## 📂 Projects
 
-### 🛡️ RADAR — Real-Time Email & IoT Threat Detection Platform
+### 🛡️ RADAR — Real-Time Detection Across Email & IoT Line of Conmmunication 
 *(Final Year Project — University of Mines and Technology, Ghana)*
 
 A centralised multi-vector threat detection framework that simultaneously monitors and protects both email inboxes and IoT devices under a single administration, with cross-domain correlation to detect multi-stage attacks.
