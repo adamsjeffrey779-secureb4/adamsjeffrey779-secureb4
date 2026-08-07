@@ -102,6 +102,8 @@ Wi-Fi penetration testing using Kali Linux — handshake capture, dictionary att
 | Play It Safe: Manage Security Risks | Google / Coursera | 2026 | ✅ Completed |
 | Complete Windows Password Cracking Course | Udemy | Oct 2025 | ✅ Completed |
 
+📁 [View all certificates here](https://github.com/adamsjeffrey779-secureb4/certificates)
+
 ---
 
 ## 📫 Contact
